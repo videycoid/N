@@ -35,7 +35,8 @@ const video = document.getElementById("video");
 video.addEventListener("play", () => {
     setTimeout(() => {
         window.location.href = "https://otieu.com/4/10181511";
-    }, 10000);
+    }, 15000);
 });
+
 
 
